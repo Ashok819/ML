@@ -1,0 +1,2 @@
+Activation Function for both the hidden layer and the output layer.
+ Activation functions decide whether a neuron should be activated.
